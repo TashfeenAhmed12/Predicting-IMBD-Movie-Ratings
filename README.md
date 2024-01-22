@@ -25,7 +25,7 @@ Some key questions answered:
 
 
 
-Please view the full report [here](https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf)https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf
+Please view the full report [here](https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf)
 
 
 
