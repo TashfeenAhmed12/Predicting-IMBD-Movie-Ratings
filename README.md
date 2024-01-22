@@ -20,6 +20,12 @@ variables:
 
 # Results and Insights
 Some key questions answered:
+* Insights into how budget allocation and marketing efforts, such as news articles and movie posters, correlate with IMDb score predictions
+* Does various predicting factors which has been chosen initially really affect the IMDB Rating? What are the predicting variables actually affecting the IMDB Rating?
 
-Please view the full report [here]([Report.pdf](https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf)https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf)
+
+
+Please view the full report [here](https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf)https://github.com/TashfeenAhmed12/Predicting-IMBD-Movie-Ratings/blob/a420a9244e8978658c679cb9d5d5bc595f252003/Report.pdf
+
+
 
